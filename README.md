@@ -1,4 +1,7 @@
 # Netlix_SQL_Analytics_Project
+
+![logo](https://github.com/user-attachments/assets/dcc1a729-024d-4498-add9-37eeabe1dfce)
+
 This project analyzes Netflix's movies and TV shows dataset using SQL to uncover valuable insights. It focuses on understanding the distribution of content types, identifying popular ratings, exploring trends in release years and countries, and categorizing content based on keywords. Key findings reveal that movies dominate the platform, India and the USA are leading content producers, and most recent additions reflect Netflix’s global expansion. 
 
 The project highlights advanced SQL techniques like aggregation, window functions, string manipulation, and data categorization to solve business problems and extract actionable insights from real-world data.
