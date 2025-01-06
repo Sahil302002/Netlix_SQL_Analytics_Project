@@ -17,6 +17,8 @@ Key highlights:
 - Categorization of content by genres, directors, actors, and countries.
 - Insightful categorization of content based on keywords like 'kill' and 'violence.'
 
+Dataset I used in this Project <a href = "netflix_titles.csv">Netflix_CSV Dataset</a>
+
 ---
 
 ## **Objectives**
