@@ -87,9 +87,10 @@ CREATE TABLE NETFLIX (
 - **Cross Apply**: For handling complex string operations.
 
 Link of SQL which I created in this Project
-<a href ="Netlix_SQL_Query_Script.sql">Netflix SQL QUERY SCROPT</a>
+<a href ="Netlix_SQL_Query_Script.sql">Netflix SQL QUERY SCRIPT</a>
 
 This is Pdf Linki of SQL Query along with screenshot of Result 
+<a href = "NETFLIX_SQL_ANALYSI.pdf"> Netflix SQL Query and Screenshot PDF </a>
 
 ---
 
