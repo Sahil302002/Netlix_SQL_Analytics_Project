@@ -8,7 +8,7 @@ The project highlights advanced SQL techniques like aggregation, window function
 
 ## **Project Overview**
 
-This project involves analyzing Netflix's dataset to answer various business queries, demonstrate SQL skills, and present findings in a structured format.
+This project involves analyzing Netflix's dataset to answer various business queries, demonstrate SQL skills in SQL SERVER MANAGEMENT STUDIO(SSMS), and present findings in a structured format.
 
 Key highlights:
 
@@ -16,8 +16,6 @@ Key highlights:
 - Exploration of **content ratings**, release years, and durations.
 - Categorization of content by genres, directors, actors, and countries.
 - Insightful categorization of content based on keywords like 'kill' and 'violence.'
-
-Dataset I used in this Project <a href = "netflix_titles.csv">Netflix_CSV Dataset</a>
 
 ---
 
@@ -34,6 +32,8 @@ Dataset I used in this Project <a href = "netflix_titles.csv">Netflix_CSV Datase
 ## **Dataset**
 
 The dataset contains 8,807 records and was sourced from Kaggle.
+
+Dataset I used in this Project <a href = "netflix_titles.csv">Netflix_CSV Dataset</a>
 
 Key columns:
 
@@ -85,6 +85,11 @@ CREATE TABLE NETFLIX (
 - **Date Functions**: `DATEADD()`, `CAST()`.
 - **Views**: Used for reusable queries.
 - **Cross Apply**: For handling complex string operations.
+
+Link of SQL which I created in this Project
+<a href ="Netlix_SQL_Query_Script.sql">Netflix SQL QUERY SCROPT</a>
+
+This is Pdf Linki of SQL Query along with screenshot of Result 
 
 ---
 
